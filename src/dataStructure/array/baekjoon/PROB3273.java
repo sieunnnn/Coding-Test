@@ -3,7 +3,7 @@ package dataStructure.array.baekjoon;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class PROB3273 {
@@ -18,26 +18,40 @@ public class PROB3273 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
-    static ArrayList<Integer> numbers;
+    static int[] numbers;
+    static int n;
+    static int x;
+    static int left;
+    static int right;
+    static int cnt;
+
 
     public static void main (String[] args) throws IOException {
-        int n = Integer.parseInt(br.readLine());
+        n = Integer.parseInt(br.readLine());
         st = new StringTokenizer(br.readLine());
-        numbers = new ArrayList<>();
-        int cnt = 0;
+        numbers = new int[n];
 
         for (int i = 0; i < n; i++) {
-            numbers.add(Integer.parseInt(st.nextToken()));
+            numbers[i] = Integer.parseInt(st.nextToken());
         }
 
-        int x = Integer.parseInt(br.readLine());
-        int comparison = 0;
+        x = Integer.parseInt(br.readLine());
 
-        for (int number : numbers) {
-            comparison = Math.abs(x - number);
-            if (numbers.contains(comparison)) {
-                numbers.remove(numbers.indexOf(comparison));
-                cnt++;
+        Arrays.sort(numbers);
+        left = 0;
+        right = numbers.length - 1;
+        cnt = 0;
+
+        while (left < right) {
+            // 탐색
+            if (numbers[left] + numbers[right] == x) {
+                cnt ++;
+                left ++;
+                right --;
+            } else if (numbers[left] + numbers[right] > x) {
+                right --;
+            } else {
+                left ++;
             }
         }
 
