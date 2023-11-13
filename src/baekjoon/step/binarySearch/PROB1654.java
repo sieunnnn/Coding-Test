@@ -21,10 +21,7 @@ public class PROB1654 {
 
         for (int i = 0; i < K; i ++) {
             lengths[i] = Long.parseLong(br.readLine());
-
-            if (i > 0) {
-                max = Math.max(max, lengths[i]);
-            }
+            max = Math.max(max, lengths[i]);
         }
         solve();
     }
