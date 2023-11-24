@@ -2,7 +2,7 @@ package programmers.kakao.techInternship;
 
 import java.util.*;
 
-class Solution {
+public class PROB1 {
     public String solution(String[] survey, int[] choices) {
         String answer = "";
         answer = solve(survey, choices);
