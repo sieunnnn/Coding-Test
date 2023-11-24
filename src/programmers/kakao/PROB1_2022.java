@@ -1,8 +1,8 @@
-package programmers.kakao.techInternship;
+package programmers.kakao;
 
 import java.util.*;
 
-public class PROB1 {
+public class PROB1_2022 {
     public String solution(String[] survey, int[] choices) {
         String answer = "";
         answer = solve(survey, choices);

@@ -1,8 +1,8 @@
-package programmers.kakao.techInternship;
+package programmers.kakao;
 
 import java.util.*;
 
-public class PROB3 {
+public class PROB3_2022 {
     public int solution(int alp, int cop, int[][] problems) {
         int maxAlp = 0, maxCop = 0;
         for (int[] problem : problems) {

@@ -1,8 +1,8 @@
-package programmers.kakao.techInternship;
+package programmers.kakao;
 
 import java.util.*;
 
-public class PROB2 {
+public class PROB2_2022 {
     public int solution(int[] queue1, int[] queue2) {
         int answer = -2;
         answer = solve(queue1, queue2);
