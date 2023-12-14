@@ -2,7 +2,7 @@ package programmers.algorithmKit.hash;
 
 import java.util.*;
 
-class Solution {
+class PROB04 {
     static Map<String, Integer> clothTypes = new HashMap<>();
 
     public int solution(String[][] clothes) {
