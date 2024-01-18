@@ -1,4 +1,4 @@
-package baekjoon.level.silver;
+package baekjoon.level.bronze;
 
 import java.io.BufferedReader;
 import java.io.IOException;
