@@ -1,0 +1,3 @@
+SELECT *
+FROM tips
+WHERE (SIZE % 2) != 0
