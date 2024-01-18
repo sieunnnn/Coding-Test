@@ -74,6 +74,7 @@ public class PROB3085 {
         return maxCnt;
     }
 
+
     public static int checkRow(int y) {
         int cnt = 1, maxCnt = 1;
         for (int i = 1; i < N; i++) {
