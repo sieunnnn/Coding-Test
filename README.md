@@ -4,7 +4,7 @@
 <br>
 
 ## Baekjoon
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sini_96">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sini_96" width=300>
 
 ### 티어별 문제
 |분류|이슈 바로가기|ISSUE STATUS|
