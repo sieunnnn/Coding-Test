@@ -52,13 +52,13 @@
 ### 고득점 Kit 문제
 |분류|이슈 바로가기|ISSUE STATUS|분류|이슈 바로가기|ISSUE STATUS|
 |:---:|---|:---:|:---:|---|:---:|
-|`SQL 고득점 Kit`|[SELECT](https://github.com/sieunnnn/Coding-Test/issues/33)| 🔚 CLOSE|`알고리즘 고득점 Kit`|[Stack/Queue](https://github.com/sieunnnn/Coding-Test/issues/42)| 🔚 CLOSE
-|`SQL 고득점 Kit`|[SUM, MAX, MIN](https://github.com/sieunnnn/Coding-Test/issues/36)| 🔚 CLOSE|`알고리즘 고득점 Kit`|[Sort](https://github.com/sieunnnn/Coding-Test/issues/44)| 🔚 CLOSE
-|`SQL 고득점 Kit`|[IS NULL](https://github.com/sieunnnn/Coding-Test/issues/37)| 🔚 CLOSE|`알고리즘 고득점 Kit`|[Hash](https://github.com/sieunnnn/Coding-Test/issues/41)| 🔛 OPEN
-|`SQL 고득점 Kit`|[JOIN](https://github.com/sieunnnn/Coding-Test/issues/38)| 🔚 CLOSE|`알고리즘 고득점 Kit`|[Graph](https://github.com/sieunnnn/Coding-Test/issues/46)| 🔛 OPEN
-|`SQL 고득점 Kit`|[String, Date](https://github.com/sieunnnn/Coding-Test/issues/45)| 🔚 CLOSE|`알고리즘 고득점 Kit`|[Greedy](https://github.com/sieunnnn/Coding-Test/issues/48)| 🔛 OPEN
-|`SQL 고득점 Kit`|[GROUP BY](https://github.com/sieunnnn/Coding-Test/issues/40)| 🔚 CLOSE|`알고리즘 고득점 Kit`|[Brute Force](https://github.com/sieunnnn/Coding-Test/issues/47)| 🔛 OPEN
-||||`알고리즘 고득점 Kit`|[BFS/DFS](https://github.com/sieunnnn/Coding-Test/issues/49)| 🔛 OPEN
+|`SQL`|[SELECT](https://github.com/sieunnnn/Coding-Test/issues/33)| 🔚 CLOSE|`알고리즘`|[Stack/Queue](https://github.com/sieunnnn/Coding-Test/issues/42)| 🔚 CLOSE
+|`SQL`|[SUM, MAX, MIN](https://github.com/sieunnnn/Coding-Test/issues/36)| 🔚 CLOSE|`알고리즘`|[Sort](https://github.com/sieunnnn/Coding-Test/issues/44)| 🔚 CLOSE
+|`SQL`|[IS NULL](https://github.com/sieunnnn/Coding-Test/issues/37)| 🔚 CLOSE|`알고리즘`|[Hash](https://github.com/sieunnnn/Coding-Test/issues/41)| 🔛 OPEN
+|`SQL`|[JOIN](https://github.com/sieunnnn/Coding-Test/issues/38)| 🔚 CLOSE|`알고리즘`|[Graph](https://github.com/sieunnnn/Coding-Test/issues/46)| 🔛 OPEN
+|`SQL`|[String, Date](https://github.com/sieunnnn/Coding-Test/issues/45)| 🔚 CLOSE|`알고리즘`|[Greedy](https://github.com/sieunnnn/Coding-Test/issues/48)| 🔛 OPEN
+|`SQL`|[GROUP BY](https://github.com/sieunnnn/Coding-Test/issues/40)| 🔚 CLOSE|`알고리즘`|[Brute Force](https://github.com/sieunnnn/Coding-Test/issues/47)| 🔛 OPEN
+||||`알고리즘`|[BFS/DFS](https://github.com/sieunnnn/Coding-Test/issues/49)| 🔛 OPEN
 
 <br>
 
