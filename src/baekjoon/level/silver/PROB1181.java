@@ -35,7 +35,7 @@ public class PROB1181 {
     public static void solve() {
         words.sort((o1, o2) -> {
             if(o1.length() != o2.length()) return o1.length() - o2.length(); // 길이순
-            else return o1.compareTo(o2); // 사전순
+            else return o1.compareTo(o2); // 사전순 정렬
         });
     }
 }
