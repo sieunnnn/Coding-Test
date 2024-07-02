@@ -1,4 +1,4 @@
-package baekjoon.level.silver;
+package silver;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -47,11 +47,11 @@ public class PROB10819 {
 
     public static void solve() {
         int temp = 0;
-//        System.out.println(Arrays.toString(sequence));
+        System.out.println(Arrays.toString(sequence));
         for (int i = 0; i < N - 1; i ++) {
             temp += Math.abs(sequence[i] - sequence[i + 1]);
         }
-//        System.out.println("temp: " + temp);
+        System.out.println("temp: " + temp);
         max = Math.max(temp, max);
     }
 }
