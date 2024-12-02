@@ -63,11 +63,13 @@
 <br>
 
 ## solvesql
-|분류|이슈 바로가기|ISSUE STATUS|
-|:---:|---|:---:|
-|`난이도`|[난이도 1 문제](https://github.com/sieunnnn/Coding-Test/issues/50)| 🔚 CLOSE
-|`난이도`|[난이도 2 문제](https://github.com/sieunnnn/Coding-Test/issues/51)| 🔚 CLOSE
-|`난이도`|[난이도 3 문제](https://github.com/sieunnnn/Coding-Test/issues/52)| 🔚 CLOSE
+|분류| 이슈 바로가기                                                                 |ISSUE STATUS|
+|:---:|-------------------------------------------------------------------------|:---:|
+|`난이도`| [난이도 1 문제](https://github.com/sieunnnn/Coding-Test/issues/50)           | 🔚 CLOSE
+|`난이도`| [난이도 2 문제](https://github.com/sieunnnn/Coding-Test/issues/51)           | 🔚 CLOSE
+|`난이도`| [난이도 3 문제](https://github.com/sieunnnn/Coding-Test/issues/52)           | 🔚 CLOSE
+|`난이도`| [Advent of SQL 2024](https://github.com/sieunnnn/Coding-Test/issues/57) | 🔚 CLOSE
+
 
 
 
